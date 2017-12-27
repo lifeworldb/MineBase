@@ -1,0 +1,5 @@
+name: MineBase
+author: lifeworldb
+version: 1.0-SNAPSHOT-20171225-2305
+main: main.java.Main
+description: MineBase es un plugin de alamacenamiento de datos usando como servicio a Firebase de google. Dando una covertura y almacenaje rapido y efectivo
